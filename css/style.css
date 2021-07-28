@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+body{
+  background: #56cbe8;
+}
+
+.card-title {
+  font-size: 30px;
+  color: #56cbe8;
+}
+
+.card-text {
+  color: grey;
+}
